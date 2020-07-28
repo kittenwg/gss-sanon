@@ -13,7 +13,7 @@ review and would like it added.
 draft-ietf-kitten-gss-sanon was first published as a kitten WG document on
 2020-05-05.
 
-sanon has bee implemented in Heimdal, and a plugin exists for MIT.
+sanon has been implemented in Heimdal, and a plugin exists for MIT.
 
 Reviewer | Review Date | Version Reviewed | Review Notes/Summary | Link to Review
 ---------|-------------|------------------|----------------------|---------------
